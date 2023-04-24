@@ -1,6 +1,11 @@
 # Задание № 2 «Применение семафоров дляорганизации взаимодействия параллельныхпроцессов»
 ## Фирсов Федор БПИ219.
 
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=fodof91&langs_count=6&hide=assembly,jupyter%20notebook&role=owner,collaborator&theme=radical" alt="Fodof91's Language stats" />
+
+
 ## Условие задчи:
 
 Задача 15. O клумбе – 1. На клумбе растет 40 цветов, за ними непрерывно следят два процесса–садовника
